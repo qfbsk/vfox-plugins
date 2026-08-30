@@ -1,11 +1,11 @@
 {
   "notes": [],
   "description": "MinGW-w64 (GCC + GDB) toolchain for Windows.",
-  "downloadUrl": "https://github.com/qfbsk/vfox-mingw/releases/download/v0.1.0/vfox-mingw-0.1.0.zip",
+  "downloadUrl": "https://github.com/qfbsk/vfox-mingw/releases/download/v0.1.1/vfox-mingw-0.1.1.zip",
   "minRuntimeVersion": "0.3.0",
   "name": "mingw",
   "homepage": "https://github.com/qfbsk/vfox-mingw",
   "license": "MIT",
   "legacyFilenames": [],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
