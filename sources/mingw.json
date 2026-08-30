@@ -1,0 +1,9 @@
+{
+  "name": "mingw",
+  "manifestUrl": "https://github.com/YOUR_USERNAME/vfox-mingw/releases/download/manifest/manifest.json",
+  "test": {
+    "version": "14.2.0",
+    "check": "gcc --version",
+    "resultRegx": "14.2.0"
+  }
+}
